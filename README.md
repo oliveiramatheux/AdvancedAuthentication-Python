@@ -6,6 +6,8 @@ usuários em um sistema, é executado uma consulta no banco de dados para verifi
 inserido tem acesso. Possui arquivo que é executado no terminal e arquivo com
 interface gráfica.
 
+#### 🚧  Status do Projeto 🚀 Finalizado mas aceita alterações...  🚧
+
 Tabela de conteúdos
 =================
 <!--ts-->
@@ -16,9 +18,7 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
    * [Autor](#autor)
 <!--te-->
-
-
-##### 🚧  Status do Projeto 🚀 Finalizado mas aceita alterações...  🚧
+<br>
 
 * Interface
 
