@@ -1,12 +1,12 @@
 # Advanced Authentication - Python
-#### Sistema de autenticação avançada com Python e MySQL
+#### Programa de autenticação avançada com Python e MySQL
 
 * 💬 Descrição e objetivo: Programa em python para gerenciar a entrada de
 usuários em um sistema, é executado uma consulta no banco de dados para verificar se o usuario
 inserido tem acesso. Possui arquivo que é executado no terminal e arquivo com
 interface gráfica.
 
-#### 🚧  Status do Projeto 🚀 Finalizado mas aceita alterações...  🚧
+#### 🚧  Status do Projeto 🚀 Finalizado mas aceita melhorias...  🚧
 
 Tabela de conteúdos
 =================
@@ -34,6 +34,8 @@ Além disto é bom ter um editor para trabalhar com o código como o [PyCharm](h
 ### 🎲 Configurações
 
 ```bash
+# Fazer a instalação do Python versão 03 ou superior
+
 # Fazer a instalação do Xampp e iniciar o servidor MySQL
 
 # Instalar o HeidiSQL e criar uma sessão de banco de dados
