@@ -34,12 +34,11 @@ Além disto é bom ter um editor para trabalhar com o código como o [PyCharm](h
 ### 🎲 Configurações
 
 ```bash
-# Fazer a instalação do Xampp e iniciar o servidor MySql
+# Fazer a instalação do Xampp e iniciar o servidor MySQL
 
 # Instalar o HeidiSQL e criar uma sessão de banco de dados
 
-# Executar o arquivo authentication.sql na pasta do programa
-e rodar o código no HeidiSQL
+# Executar o arquivo authentication.sql na pasta do programa e rodar o código no HeidiSQL
 
 # Instalar a biblioteca de criptografia do python
 $ pip install bcrypt

@@ -2,4 +2,3 @@ python==3.8
 MySQLdb
 tkinter
 bcrypt
-sys
